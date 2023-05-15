@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Developer
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Shahed-Shariati/Shahed-Shariati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
